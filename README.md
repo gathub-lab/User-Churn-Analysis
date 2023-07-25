@@ -39,21 +39,22 @@
 ![image](https://github.com/gathub-lab/User-Churn-Analysis/assets/116141004/3ebb719f-aec5-4432-b96e-f72fe3bf9f74)
 
 ## 4. Insight
-- Page 1, Customer Overview will give a detailed view of the users of this telecommunications network with a total of 6678 users
-In the first metric cards, the most notable is the CSC index (total number of calls to the call center / total number of customers) 92% in the Customer group and 239% in the Churner group, which shows that the customers who left are the customers who called the call center the most.
+- Customer Overview will give a detailed view of the users of this telecommunications network with a total of 6678 users
+- In the first line metric cards, the most notable is the CSC index (total number of calls to the call center / total number of customers) 92% in the Customer group and 239% in the Churner group, which shows that the customers who left are the customers who called the call center the most.
 - The UDP measure of the Churner group is very high with 80.35%, indicating the problem with the Data Unlimited package.
 - 95.5% of customers leaving are new customers, they have used less than 10 months
 - Customers using month-to-month contracts have the highest churn rate, 87.92%
 - Customers using the Direct Debit payment method had the highest churn rate, 71.10%
-- The 3 reasons customers churn the most are:
-Competitor make better offers - 30.86%
-Competitor had better devices - 30.24%
-Attitude of support person - 20.67%
+
+**The 3 reasons customers churn the most are:**
++ Competitor make better offers - 30.86%
++ Competitor had better devices - 30.24%
++ Attitude of support person - 20.67%
 
 ## 5. Recommendations
 1. Improve customer service attitude and call quality (training/replacing personnel/increasing number of personnel, etc.), reducing CSC measure of Churner group.
-2. Increase the customer base of the Group user segment because it has a low churn rate of 5.51% (promotions for new customers to buy in groups, free group calls and messages, etc.)
+2. Encourage customers to use Group because Group users have a low abandonment rate of 5.51% (promotion for new customers to buy in groups, free group calls and messages, etc.)
 3. Encourage customers to use long-term contracts (Promotion for customers signing 1-year and 2-year contracts, etc.)
 4. Encourage customers to use Credit Card and Paper Check payment methods (Partnership with banks, promotions when customers pay cards, etc.)
-5. AVG of Monthly Download is less than 10GB/month, in Churner user group using 14.2% higher than average, indicating that churn customers need to improve data package (create data package under 10gb, loyalty point feature used to exchange data, etc.)
+5. AVG of Monthly Download is less than 10GB/month, in Churner user group using 14.2% higher than average, indicating that churn customers need to improve data package (create data package under 10 GB, loyalty point feature used to exchange data, etc.)
 6. Improve Offer and Device to increase competitiveness.
